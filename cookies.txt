@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.online-esta.website	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1593183379|Rcl9A94bMc3i
+www.online-esta.website	TRUE	/	FALSE	1999999999	SameSite	None
+.clickcease.com	TRUE	/	FALSE	1999999999	__cfduid	dde05deb159d9a94cff00afc795c7ef051593183389
+www.clickcease.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.online-esta.website	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss#dc#desc=use1"
+www.online-esta.website	TRUE	/	FALSE	1999999999	hs	73177141
+www.online-esta.website	TRUE	/	FALSE	1999999999	svSession	17a175db7501b3890a3210409060ad894974f3f06025a354a0a6372fde705c1124fdbcbcdec32bc2982d66a332cac12c1e60994d53964e647acf431e4f798bcd512677d6bfe17785593b17d8afdaf8ee04081a027c4b823ac7e2edff0edcc494
+
